@@ -7,28 +7,21 @@
   }
   
   hr {
-    width: 75%;
+    width: 100%;
   }
   
   .todoTitle {
-    color: #A9ABAE;
+    color: #ddc0cb;
     font-weight: bold;
   }
   
   .noTodos {
     font-variant: small-caps;
-    color: #c1c1c1;
+    color: #ddc0cb;
   }
   
   .fa-trash,
-  .fa-pencil {
-    color: #8e8e8e;
+  .fa-pen {
+    color: #ddc0cb;
     cursor: pointer;
   }
-  
-  .fa-thumb-tack {
-    margin-right: 10px;
-    color: #e55b8a;
-    cursor: pointer;
-  }
-  
